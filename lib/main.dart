@@ -1,9 +1,9 @@
 // Autor: André Lucas Conceição Magalhães
-// GitHub: https://github.com/NemRela1
-// LinkedIn: https://www.linkedin.com/in/lucas-magalh%C3%A3es-348936222/
-// Data: 22/03/2026
+// GitHub: https://github.com/lmagalhaesdev
+// LinkedIn: https://www.linkedin.com/in/alucascmagalhaes/
+// Data: 24/05/2026
 
-import 'package:alura_usedev_mobile/pages/home/home.dart';
+import 'package:app/src/screens/home/home.dart';
 import 'package:flutter/material.dart';
 
 void main() {
